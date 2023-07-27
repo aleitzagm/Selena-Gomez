@@ -1,0 +1,77 @@
+body {
+    color: black;
+    background-color: #efeae6;
+    font-family: 'Bacasime Antique', serif;
+font-family: 'Raleway', sans-serif;
+}
+h1 {
+    color: #d1567e;
+}
+ 
+.Selena1 {
+    width: 340px;
+    height: 280px;
+    border-color: darkorchid;
+   display: block;
+    margin: 0 auto;
+   
+}
+.Selena2 {
+    width: 340px;
+    height: 320px;
+    display: block;
+    margin: 0 auto;
+   
+}
+.Selena3 {
+    width: 220px;
+    height: 320px;
+    display: block;
+    margin: 0 auto;
+   
+}
+.Selena4 {
+    width: 320px;
+    height: 380px;
+    display: block;
+    margin: 0 auto;
+   
+}
+
+small {
+    color: darkslategrey;
+}
+
+list-style-type{
+    font-family: 'Raleway', sans-serif;
+}
+
+ul{
+    font-size: 150%;
+    color: black;
+  
+   
+    
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: justify;
+}
+
+h3{
+    text-align: justify;
+}
+
+p{
+    text-align: center;
+}
+
+iframe{
+    display: block;
+    margin: 0 auto;
+   
+}
